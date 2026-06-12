@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+exports/
+raw_json/
+raw_test/
+*.xlsx
+*.tmp.xlsx
